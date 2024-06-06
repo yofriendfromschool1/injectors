@@ -1,0 +1,31 @@
+﻿  Loader.cpp
+C:\Users\diazc\Downloads\Undetected-DLL-Injection-Method-main\Undetected-DLL-Injection-Method-main\Loader\functions.h(7,20): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  (compiling source file 'Loader.cpp')
+  
+C:\Users\diazc\Downloads\Undetected-DLL-Injection-Method-main\Undetected-DLL-Injection-Method-main\Loader\functions.h(29,9): error C2664: 'int strcmp(const char *,const char *)': cannot convert argument 1 from 'WCHAR [260]' to 'const char *'
+  (compiling source file 'Loader.cpp')
+  C:\Users\diazc\Downloads\Undetected-DLL-Injection-Method-main\Undetected-DLL-Injection-Method-main\Loader\functions.h(29,20):
+  Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or parenthesized function-style cast
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\string.h(100,13):
+  see declaration of 'strcmp'
+  C:\Users\diazc\Downloads\Undetected-DLL-Injection-Method-main\Undetected-DLL-Injection-Method-main\Loader\functions.h(29,9):
+  while trying to match the argument list '(WCHAR [260], const char *)'
+  
+C:\Users\diazc\Downloads\Undetected-DLL-Injection-Method-main\Undetected-DLL-Injection-Method-main\Loader\functions.h(48,11): error C2664: 'int strcmp(const char *,const char *)': cannot convert argument 1 from 'WCHAR [256]' to 'const char *'
+  (compiling source file 'Loader.cpp')
+  C:\Users\diazc\Downloads\Undetected-DLL-Injection-Method-main\Undetected-DLL-Injection-Method-main\Loader\functions.h(48,26):
+  Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or parenthesized function-style cast
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\ucrt\string.h(100,13):
+  see declaration of 'strcmp'
+  C:\Users\diazc\Downloads\Undetected-DLL-Injection-Method-main\Undetected-DLL-Injection-Method-main\Loader\functions.h(48,11):
+  while trying to match the argument list '(WCHAR [256], const char *)'
+  
+C:\Users\diazc\Downloads\Undetected-DLL-Injection-Method-main\Undetected-DLL-Injection-Method-main\Loader\functions.h(65,3): error C2664: 'DWORD GetFullPathNameW(LPCWSTR,DWORD,LPWSTR,LPWSTR *)': cannot convert argument 1 from 'const char *' to 'LPCWSTR'
+  (compiling source file 'Loader.cpp')
+  C:\Users\diazc\Downloads\Undetected-DLL-Injection-Method-main\Undetected-DLL-Injection-Method-main\Loader\functions.h(65,19):
+  Types pointed to are unrelated; conversion requires reinterpret_cast, C-style cast or parenthesized function-style cast
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.22621.0\um\fileapi.h(727,1):
+  see declaration of 'GetFullPathNameW'
+  C:\Users\diazc\Downloads\Undetected-DLL-Injection-Method-main\Undetected-DLL-Injection-Method-main\Loader\functions.h(65,3):
+  while trying to match the argument list '(const char *, int, char [260], int)'
+  
