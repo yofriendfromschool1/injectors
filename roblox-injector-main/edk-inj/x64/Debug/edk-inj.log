@@ -1,0 +1,5 @@
+﻿  authentication.cxx
+  core.cxx
+  Generating Code...
+C:\Users\diazc\OneDrive\Desktop\organized\Cheats Stuff\Injectors\roblox-injector-main\edk-inj\authentication\authentication.cxx(1,10): error C1083: Cannot open include file: 'authentication/communication.hxx': No such file or directory
+C:\Users\diazc\OneDrive\Desktop\organized\Cheats Stuff\Injectors\roblox-injector-main\edk-inj\core\core.cxx(1,10): error C1083: Cannot open include file: 'core/core.hxx': No such file or directory

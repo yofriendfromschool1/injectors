@@ -1,0 +1,3 @@
+﻿  core.cxx
+MSVCRT.lib(exe_main.obj) : error LNK2001: unresolved external symbol main
+C:\Users\diazc\OneDrive\Desktop\organized\Cheats Stuff\Injectors\roblox-injector-main\x64\Release\edk-dll.exe : fatal error LNK1120: 1 unresolved externals

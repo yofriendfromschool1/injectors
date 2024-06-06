@@ -1,0 +1,22 @@
+2024-02-09 03:06:40 *NORMAL*     Started on Windows 10.0.0.19045 x64. Driver status: 0xC0000225
+2024-02-09 03:06:40 *ERROR*      File "C:\Users\diazc\Downloads\1v1.lol.cheat.dll" is not a valid PE image
+2024-02-09 03:08:32 *ERROR*      Failed to load BlackBone driver:
+
+Windows cannot verify the digital signature for this file. A recent hardware or software change might have installed a file that is signed incorrectly or damaged, or that might be malicious software from an unknown source.
+
+2024-02-09 03:08:57 *ERROR*      Failed to load BlackBone driver:
+
+Windows cannot verify the digital signature for this file. A recent hardware or software change might have installed a file that is signed incorrectly or damaged, or that might be malicious software from an unknown source.
+
+2024-02-09 03:08:59 *WARNING*    You must reboot your computer for the changes to take effect
+2024-02-09 03:09:09 *CRITICAL*   Injection initiated. Mode: 1, process type: 0, pid: 26456, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2024-02-09 03:09:09 *CRITICAL*   Injecting image 'C:\Users\diazc\OneDrive\Desktop\Cheats Stuff\Roblox\flutter api\FlutterAPI.dll'
+2024-02-09 03:09:09 *ERROR*      Failed to inject image using manual map, status: 0xC00000EF
+2024-02-09 03:09:09 *ERROR*      Failed to inject image 'C:\Users\diazc\OneDrive\Desktop\Cheats Stuff\Roblox\flutter api\FlutterAPI.dll'.
+Error code 0xC00000EF
+2024-02-09 03:09:17 *CRITICAL*   Injection initiated. Mode: 0, process type: 0, pid: 26456, mmap flags: 0x0, erasePE: 0, unlink: 0, thread hijack: 0, init routine: '', init arg: ''
+2024-02-09 03:09:17 *CRITICAL*   Injecting image 'C:\Users\diazc\OneDrive\Desktop\Cheats Stuff\Roblox\flutter api\FlutterAPI.dll'
+2024-02-09 03:09:17 *ERROR*      Invalid failure status: 0x0
+2024-02-09 03:09:17 *ERROR*      Failed to inject image 'C:\Users\diazc\OneDrive\Desktop\Cheats Stuff\Roblox\flutter api\FlutterAPI.dll'.
+Error code 0xC0000135
+

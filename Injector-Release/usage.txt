@@ -1,0 +1,7 @@
+Injector_path.exe dll_path [process_name]
+"C:\Users\diazc\OneDrive\Desktop\Cheats Stuff\Injector-Release\Injector-x86.exe" "C:\Users\diazc\OneDrive\Desktop\Cheats Stuff\Injector-Release\sexy internal.dll" csgo.exe
+"C:\Users\diazc\OneDrive\Desktop\Cheats Stuff\Injector-Release\Injector-x86.exe" "C:\Users\diazc\OneDrive\Desktop\Cheats Stuff\Internalbhopcss\Release\Internalbhopcss.dll" hl2.exe
+"C:\Users\diazc\OneDrive\Desktop\Cheats Stuff\Injector-Release\Injector-x86.exe" "C:\Users\diazc\OneDrive\Desktop\Cheats Stuff\kakhack-master\output\kakhack.dll" csgo.exe
+"C:\Users\diazc\OneDrive\Desktop\Cheats Stuff\Injector-Release\Injector-x86.exe" "C:\Users\diazc\OneDrive\Desktop\Cheats Stuff\based-master\build\based.dll" csgo.exe
+
+Injector-x64-SEH-On.exe "C:\Users\diazc\OneDrive\Desktop\organized\Cheats Stuff\Made by yo\print-uwp\x64\Debug\print-uwp.dll" Windows10Universal.exe
